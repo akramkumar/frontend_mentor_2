@@ -12,7 +12,7 @@ svg{
 }
 .container{
     background-color: hsl(0, 0%, 100%);
-    margin: 8% 40% 0% 40%;
+    margin: 18% 40% 0% 40%;
     padding: 20px;
     display: flex;
     flex-direction: column;
